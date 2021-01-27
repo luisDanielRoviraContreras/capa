@@ -1,0 +1,9 @@
+{
+  "name": "My App",
+  "type": "angular",
+  "id": "abc123",
+  "integrations": {
+    "capacitor": {}
+  },
+  "hooks": {}
+}
