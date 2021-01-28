@@ -1,9 +1,9 @@
 {
-  "appId": "com.vuesax",
-  "appName": "capacitor",
+  "appId": "io.ionic.starter",
+  "appName": "capa",
   "bundledWebRuntime": false,
   "npmClient": "npm",
-  "webDir": "dist",
+  "webDir": "build",
   "plugins": {
     "SplashScreen": {
       "launchShowDuration": 0

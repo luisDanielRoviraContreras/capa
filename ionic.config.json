@@ -1,9 +1,7 @@
 {
-  "name": "My App",
-  "type": "angular",
-  "id": "abc123",
+  "name": "capa",
   "integrations": {
     "capacitor": {}
   },
-  "hooks": {}
+  "type": "react"
 }
